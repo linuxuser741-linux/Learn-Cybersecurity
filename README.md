@@ -57,7 +57,7 @@
 - least privilege
 - rule specificity
 
-# i will add more levels in the future
+# I Will Add More Levels In The Future
 
-# Contact Us Via : linuxuser741@gmail.com
+### Contact Us Via : linuxuser741@gmail.com
 
