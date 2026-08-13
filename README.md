@@ -2,6 +2,7 @@
 
 - in this site you will learn cybersecurity from the basics of linux to the absolute professional
 
+- information : the site is arabic , its goals is education and awareness , and any wrong use of this content may hold you responsible , so be careful of what you do 
 
 ### Linux Fundamentals :
 
