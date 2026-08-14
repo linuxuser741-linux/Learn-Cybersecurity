@@ -58,7 +58,20 @@
 - least privilege
 - rule specificity
 
-# I Will Add More Levels In The Future
+### Server Administration & Services :
+
+- variables
+- conditions
+- loops 
+- functions
+- arguments
+- exit codes 
+- pipes
+- redirection
+- bash scripting
+- automating linux / security tasks
+
+## i will add more levels in the future
 
 ### Contact Us Via : linuxuser741@gmail.com
 
