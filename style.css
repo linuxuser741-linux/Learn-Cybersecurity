@@ -1,0 +1,59 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+.page {
+    display: grid;
+    grid-template-columns: 16fr minmax(600px, 900px) 1fr;
+    min-height: 100vh;
+}
+.left {
+    border-right: 2.5px solid #ccc;
+}
+.content {
+    padding: 40px;
+}
+.right {
+    border-left: 2.5px solid #ccc;
+}
+.title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #66ff00;
+}
+.description {
+    text-align: left;
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+.informations {
+    text-align: left;
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+.beg {
+    text-align: left;
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+.command {
+    text-align: left;
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+.explanation {
+    text-align: left;
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+.example {
+    text-align: left;
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
